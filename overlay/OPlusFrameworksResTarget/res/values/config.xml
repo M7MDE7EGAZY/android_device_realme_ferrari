@@ -374,5 +374,7 @@
         <item>2463</item> <!-- <item>sensorLocationY</item> -->
         <item>114</item>  <!-- <item>sensorRadius</item> -->
     </integer-array>
+    
+     <bool name="config_ignoreRssnrSignalLevel">true</bool>
 
 </resources>
