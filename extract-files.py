@@ -51,7 +51,7 @@ blob_fixups: blob_fixups_user_type = {
 }  # fmt: skip
 
 module = ExtractUtilsModule(
-    'ferrari',
+    'ferrarri',
     'realme',
     namespace_imports=namespace_imports,
     blob_fixups=blob_fixups,
