@@ -7,7 +7,7 @@
 # Include the common OEM chipset BoardConfig.
 include device/oneplus/sm8450-common/BoardConfigCommon.mk
 
-DEVICE_PATH := device/realme/ferrari
+DEVICE_PATH := device/realme/ferrarri
 
 # DTB
 TARGET_KERNEL_CONFIG += vendor/oplus/ferrari.config
@@ -23,4 +23,4 @@ TARGET_RECOVERY_DENSITY := xxhdpi
 TARGET_RECOVERY_UI_MARGIN_HEIGHT := 126
 
 # Include the proprietary files BoardConfig.
-include vendor/realme/ferrari/BoardConfigVendor.mk
+include vendor/realme/ferrarri/BoardConfigVendor.mk
